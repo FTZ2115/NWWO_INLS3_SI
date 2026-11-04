@@ -5,4 +5,5 @@ def add_task(lista_zadan):
         lista_zadan.append(zadanie)
         print("Zadanie dodano!")
 
+    else:
     print("Zadanie nie może być pusta")
