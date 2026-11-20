@@ -5,3 +5,8 @@ print("Nauka Gita!:)")
 lista_zadan = []
 add_task(lista_zadan)
 print(lista_zadan)
+
+print("Pierwszy print")
+print("Drugi print")
+print("trzeci print")
+print("czwarty print")
